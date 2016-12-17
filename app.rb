@@ -1,7 +1,7 @@
-Shoes.app(:resizable => false, :title => "NarWord") do
+Shoes.app(:resizable => false, :title => "CoralText") do
 	@older_action = ""
   background gradient("#2C5679", "#000000")
-  title("NarWord", :stroke => white, :kerning => 2, :align => "center")
+  title("CoralText", :stroke => white, :kerning => 2, :align => "center")
   para("Simple and faster editor", :stroke => white, :align => "center", :top => 50 )
   @icons = flow(:displace_top => 10, :center => true) do
   #events	

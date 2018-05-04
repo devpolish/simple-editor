@@ -1,6 +1,7 @@
-# Coraltext
-Fast and simple text editor.
+# Simple Text Editor made in Ruby using Shoes Framework
 
-# Important
-Require Ruby 2.1.0 + and Shoes
+
+# Specs
+  * Ruby ~> 2.1.0  
+  * Shoes ~> Walkabout  
 
